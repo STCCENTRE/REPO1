@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T19:38:19 IST" name="Default suite" finished-at="2023-01-03T19:38:30 IST" duration-ms="11547">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T19:38:19 IST" name="Default test" finished-at="2023-01-03T19:38:30 IST" duration-ms="11547">
+      <class name="Package1.orangehrm">
+        <test-method signature="login()[pri:0, instance:Package1.orangehrm@2177849e]" started-at="2023-01-03T19:38:19 IST" name="login" finished-at="2023-01-03T19:38:30 IST" duration-ms="11512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Package1.orangehrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
